@@ -1,1 +1,1 @@
-# IntroToNumpayArrays
+# IntroToNumpyArrays
